@@ -1,0 +1,214 @@
+name,element,rarity,influence,oz,lb
+"Animal, Horse Hoof",Earth,Common,"Dexterity, Polymer, Strength",500,8000
+"Animal, Ox Sweat",Water,Common,"Strength",6,100
+"Animal, Rabbit Blood",Earth,Common,"Dexterity, Polymer",6,100
+"Ankheg, Acid",Water,Special,"Polymer",6000,96000
+Apophyllite,Earth,Extraordinary,"Divination, Resistance",8000,128000
+Aqua Aura,Water,Rare,"Pigment, Resistance, Wisdom",1400,22400
+Aquamarine,Water,Uncommon,"Abjuration, Divination, Intelligence, Pigment, Wisdom",50000,800000
+Aragonite,Fire,Special,"Enchantment, Energy, Wisdom",1600,25600
+Astrophyllite,Fire,Extraordinary,"Fortitude, Resistance, Strength",4500,72000
+Athelas,Earth,Common,"Constitution, Divination, Healing, Intelligence, Wisdom",200,3200
+Aventurine,Earth,Rare,"Abjuration, Healing",1400,22400
+Azurite,Air,Uncommon,"Charisma, Intelligence, Pigment, Wisdom",1000,16000
+Balm of Gilead,Fire,Special,"Abjuration, Healing, Resistance",2000,32000
+Banana,Water,Uncommon,"Healing, Pigment",400,6400
+Barite,Air,Common,"Enchantment, Energy, Intelligence",200,3200
+Benitoite,Water,Extraordinary,"Charisma, Enchantment, Wisdom",13000,208000
+Beryl,Air,Rare,"Abjuration, Divination, Energy",1000,16000
+Bezoar,Air,Rare,"Constitution, Healing",1100,17600
+Bismuth,Air,Extraordinary,"Energy, Healing, Pigment",30000,480000
+Bloodstone,Earth,Special,"Divination, Healing",5000,80000
+Blue Laced Agate,Air,Common,"Charisma, Pigment",300,4800
+Bodhi,Water,Special,"Abjuration, Charisma, Constitution, Dexterity, Intelligence, Strength, Wisdom",45000,720000
+Boltsana Agate,Air,Rare,"Enchantment, Healing",1200,19200
+Brimstone,Fire,Common,"Energy, Polymer, Strength",200,3200
+"Calcite, Gold",Air,Common,"Healing, Pigment",400,6400
+"Calcite, Green",Air,Uncommon,"Enchantment, Pigment",900,14400
+"Calcite, Orange",Air,Rare,"Wisdom, Pigment",1000,16000
+Carnelian,Fire,Special,"Charisma, Divination, Intelligence, Wisdom",5000,80000
+"Cat's Eye",Water,Common,"Divination, Wisdom",6,100
+Celestite,Air,Special,"Healing, Resistance",1700,27200
+Cerrusite,Earth,Common,"Charisma, Intelligence, Wisdom",200,3200
+Chalcedony,Earth,Special,"Pigment, Polymer",5000,80000
+Chalcopyrite,Fire,Uncommon,"Energy, Pigment",1000,16000
+Charoite,Water,Special,"Abjuration, Intelligence",1800,28800
+Chiastolite,Air,Extraordinary,"Energy, Resistance",2500,40000
+Chimera Sinew,Water,Extraordinary,"Constitution, Strength",20000,320000
+Chrysocolla,Water,Common,"Intelligence, Strength",200,3200
+Chrysolite,Fire,Special,"Abjuration, Energy",7000,112000
+Chrysoprase,Earth,Special,"Charisma, Divination, Enchantment",5000,80000
+Citrine,Fire,Extraordinary,"Healing, Resistance",5000,80000
+Clay,Water,Common,"Enchantment, Healing, Pigment, Polymer",6,100
+Coral,Water,Special,"Abjuration, Divination, Wisdom",10000,160000
+Couatl Feather,Water,Extraordinary,"Abjuration, Resistance, Wisdom",12000,192000
+Cuprite,Earth,Special,"Divination, Pigment, Polymer",2000,32000
+Cyclops Hair,Water,Extraordinary,"Strength",20000,320000
+Danburite,Earth,Special,"Intelligence, Wisdom",1600,25600
+Death Knight Bone,Earth,Extraordinary,"Charisma, Strength",36000,576000
+Demon Blood,Water,Extraordinary,"Charisma, Strength",3000,48000
+Desert Rose,Fire,Extraordinary,"Energy, Strength, Wisdom",8000,128000
+Devil Blood,Fire,Extraordinary,"Charisma, Intelligence, Dexterity, Strength, Wisdom",3000,48000
+"Diamond, Astral",Fire,Extraordinary,"Abjuration, Divination, Enchantment, Energy",1000000,16000000
+"Diamond, Crafting",Fire,Uncommon,"Healing, Pigment, Polymer",1000,16000
+"Diamond, Flawed",Fire,Rare,"Fortitude, Resistance",1200,19200
+"Diamond, Gemstone",Fire,Special,"Charisma, Constitution, Dexterity, Strength, Wisdom",500000,8000000
+Diopside,Air,Common,"Intelligence, Pigment, Polymer",300,4800
+Dioptase,Water,Common,"Healing, Resistance, Strength",400,6400
+Displacer Beast Hair,Water,Extraordinary,"Abjuration",9000,144000
+Dragon Blood,Fire,Extraordinary,"Abjuration, Charisma, Constitution, Divination, Dexterity, Energy, Enchantment, Fortitude, Healing, Intelligence, Resistance, Strength, Wisdom",6000,96000
+Dragon Claw,Water,Extraordinary,"Abjuration, Resistance",6000,96000
+Dragon Hide,Air,Extraordinary,"Abjuration, Polymer, Pigment, Resistance",6000,96000
+Dragon Tooth,Earth,Extraordinary,"Charisma, Constitution, Dexterity, Intelligence, Strength, Wisdom",6000,96000
+Emerald,Earth,Special,"Abjuration, Divination, Strength, Wisdom",100000,1600000
+Empyrean Sweat,Water,Extraordinary,"Charisma, Constitution, Dexterity, Intelligence, Strength, Wisdom",80000,1280000
+Ettercap Venom,Air,Extraordinary,"Abjuration, Healing, Strength",6000,96000
+Feldspar,Water,Common,"Charisma, Constitution, Divination, Dexterity, Intelligence, Strength",300,4800
+Flint,Fire,Common,"Abjuration, Energy",300,4800
+Fluorite,Air,Common,"Abjuration, Charisma, Divination, Intelligence, Wisdom",500,8000
+Galena,Earth,Rare,"Constitution, Healing, Resistance",1400,22400
+Garnet,Fire,Special,"Abjuration, Constitution, Divination, Energy",10000,160000
+Geode,Earth,Rare,"Charisma, Wisdom",1200,19200
+Gold,Earth,Uncommon,"Abjuration, Charisma, Constitution, Divination, Dexterity, Energy, Enchantment, Fortitude, Healing, Intelligence, Pigment, Polymer, Resistance, Strength, Wisdom",400,5000
+Goldstone,Fire,Extraordinary,"Intelligence, Strength",2000,32000
+Goshenite,Air,Common,"Abjuration, Divination",600,9600
+"Gypsum, Alabaster",Earth,Common,"Dexterity, Polymer, Resistance",400,6400
+"Gypsum, Satin Spar",Earth,Uncommon,"Dexterity, Energy, Polymer",600,9600
+"Gypsum, Selenite",Earth,Rare,"Dexterity, Energy, Polymer, Resistance",1200,19200
+"Hawk's Eye",Earth,Common,"Abjuration, Divination, Wisdom",6,100
+Heliodor,Air,Uncommon,"Abjuration, Divination, Enchantment, Fortitude, Pigment",800,12800
+Heliotrope,Fire,Special,"Abjuration, Enchantment, Wisdom",6000,96000
+Hematite,Fire,Common,"Abjuration, Energy, Fortitude, Pigment, Resistance",1000,16000
+Herkimer Diamond,Air,Rare,"Divination, Healing, Resistance",1100,17600
+Hiddenite,Air,Special,"Charisma, Divination, Healing, Intelligence, Wisdom",1700,27200
+Icewind Spar,Air,Uncommon,"Abjuration, Energy, Polymer",1000,16000
+Iolite,Water,Extraordinary,"Abjuration, Charisma, Enchantment, Energy, Intelligence, Wisdom",4500,72000
+Iron Pyrite,Fire,Common,"Charisma, Constitution, Divination, Dexterity, Enchantment, Healing, Intelligence, Strength",400,6400
+Ivory,Earth,Uncommon,"Abjuration, Constitution, Enchantment, Polymer, Wisdom",800,12800
+Jacinth,Air,Special,"Abjuration, Charisma, Resistance, Polymer",500000,8000000
+"Jade, Green",Earth,Special,"Abjuration, Charisma, Divination, Healing, Pigment",10000,160000
+"Jade, White",Earth,Special,"Abjuration, Charisma, Constitution, Divination, Healing, Intelligence, Pigment",10000,160000
+"Jade, Yellow",Earth,Extraordinary,"Abjuration, Charisma, Constitution, Divination, Healing, Intelligence, Pigment, Wisdom",3500,56000
+"Jasper, Brecciated",Earth,Common,"Fortitude, Wisdom",400,6400
+"Jasper, Colorless",Earth,Extraordinary,"Charisma, Constitution, Dexterity, Intelligence, Strength, Wisdom",6500,104000
+"Jasper, Leopard Skin",Earth,Special,"Abjuration, Enchantment, Healing",8500,136000
+"Jasper, Picture",Earth,Special,"Energy, Wisdom",5000,80000
+"Jasper, Red",Earth,Uncommon,"Charisma, Pigment, Resistance",900,14400
+Jet,Earth,Special,"Abjuration, Constitution, Divination, Resistance, Strength",10000,160000
+"Labradorite, Clear",Air,Special,"Intelligence, Wisdom",1600,25600
+"Labradorite, Gray",Air,Rare,"Intelligence, Wisdom, Pigment",1100,17600
+Lapis Lazuli,Air,Uncommon,"Abjuration, Energy, Pigment, Resistance",1000,16000
+Larimar,Water,Common,"Healing, Pigment",400,6400
+Lazurite,Air,Common,"Fortitude, Healing, Wisdom",200,3200
+Lemon Verbana,Fire,Rare,"Abjuration, Pigment, Polymer",1300,20800
+Lemon,Water,Common,"Healing, Pigment, Polymer",200,3200
+Lepidolite,Air,Uncommon,"Abjuration, Healing, Pigment, Resistance",600,9600
+Lime,Water,Uncommon,"Constitution, Dexterity, Energy, Healing, Pigment, Polymer, Wisdom",500,8000
+Lodestone,Fire,Common,"Abjuration, Divination, Enchantment, Polymer, Resistance",600,9600
+Lotus Flower,Water,Rare,"Abjuration, Charisma, Constitution, Divination, Dexterity, Energy, Enchantment, Fortitude, Healing, Intelligence, Pigment, Polymer, Resistance, Strength, Wisdom",1000,16000
+Lye,Water,Uncommon,"Constitution, Energy, Fortitude, Pigment, Polymer, Resistance",600,9600
+Malachite,Fire,Common,"Abjuration, Constitution, Dexterity, Wisdom",1000,16000
+Mandrake,Earth,Uncommon,"Healing",300,4800
+"Mandrake, Root",Fire,Uncommon,"Abjuration, Charisma, Divination, Healing, Intelligence, Resistance",700,11200
+Marcasite,Fire,Uncommon,"Divination, Fortitude, Intelligence, Resistance",800,12800
+Meteorite,Fire,Extraordinary,"Charisma, Constitution, Dexterity, Intelligence, Strength, Wisdom",8500,136000
+Mimitite,Air,Uncommon,"Charisma, Divination, Wisdom",1000,16000
+Moldavite,Fire,Extraordinary,"Divination, Energy",9000,144000
+Moonstone,Water,Special,"Divination, Healing, Intelligence, Wisdom",5000,80000
+Morganite,Air,Common,"Divination, Pigment, Polymer, Wisdom",400,6400
+Moss Agate,Earth,Common,"Charisma, Divination, Enchantments, Resistance",1000,16000
+"Mother of Pearl, Cream",Water,Uncommon,"Abjuration, Charisma, Energy",600,9600
+"Mother of Pearl, White",Water,Rare,"Abjuration, Charisma, Energy",1300,20800
+Nephrite,Earth,Rare,"Constitution, Resistance, Strength",1200,19200
+Nitre,Fire,Common,"Constitution, Dexterity, Energy, Healing, Resistance, Strength",400,6400
+"Obsidian, Black",Fire,Uncommon,"Divination, Energy, Resistance, Strength",1000,16000
+"Obsidian, Mahogany",Fire,Rare,"Divination, Energy, Strength",1400,22400
+"Obsidian, Snowflake",Fire,Special,"Energy, Strength",1800,28800
+"Obsidian, Tear",Earth,Special,"Abjuration, Divination, Healing",1400,22400
+"Onyx, Banded",Earth,Special,"Abjuration, Enchantment, Intelligence, Wisdom",5000,80000
+"Onyx, Black",Earth,Special,"Abjuration, Enchantment, Energy, Wisdom",5000,80000
+Opal,Fire,Uncommon,"Abjuration, Divination",100000,1600000
+Pearl,Water,Special,"Charisma, Divination, Healing, Intelligence, Wisdom",10000,160000
+Peridot,Air,Special,"Abjuration, Charisma, Constitution, Divination, Healing, Resistance",50000,80000
+Phenacite,Air,Rare,"Dexterity, Intelligence, Wisdom",1300,20800
+Phosphorous,Fire,Uncommon,"Energy",800,12800
+Pine Sap,Air,Common,"Polymer",6,100
+Pine,Fire,Common,"Abjuration, Divination, Polymer, Pigment, Resistance",6,100
+Pitch,Fire,Uncommon,"Energy, Polymer",800,12800
+Potash,Fire,Common,"Abjuration, Fortitude, Healing, Pigment, Polymer, Resistance",300,4800
+Praziolite,Earth,Special,"Intelligence, Wisdom",1700,27200
+Purple Worm Acid,Water,Extraordinary,"Polymer",23000,368000
+Purple Worm Sinew,Water,Rare,"Pigment, Strength",23000,368000
+"Quartz, Clear",Air,Special,"Divination, Energy",5000,80000
+"Quartz, Green",Air,Rare,"Abjuration, Energy, Pigment, Wisdom",1200,19200
+"Quartz, Orange",Air,Extraordinary,"Abjuration, Fortitude, Pigment, Resistance",3000,48000
+"Quartz, Phantom",Air,Extraordinary,"Divination, Energy",2400,38400
+"Quartz, Purple",Air,Uncommon,"Abjuration, Charisma, Enchantment, Pigment",600,9600
+"Quartz, Rose",Air,Special,"Abjuration, Energy, Pigment, Resistance",1500,24000
+"Quartz, Rutilated",Earth,Uncommon,"Abjuration, Healing, Resistance, Strength, Wisdom",800,12800
+"Quartz, Smokey",Earth,Special,"Divination, Charisma, Energy, Healing, Wisdom",5000,80000
+"Quartz, Snow",Air,Special,"Abjuration, Energy, Healing, Resistance, Strength",5000,80000
+"Quartz, Yellow",Air,Common,"Abjuration, Charisma, Constitution, Enchantment, Healing, Pigment",400,6400
+Residuum,Air,Extraordinary,"Abjuration, Charisma, Constitution, Dexterity, Divination, Energy, Enchantment, Fortitude, Healing, Intelligence, Pigment, Polymer, Resistance, Strength, Wisdom",3125000,50000000
+Rhodochrosite,Water,Common,"Dexterity, Fortitude, Pigment, Polymer, Resistance, Strength",1000,16000
+Rhyolite,Earth,Uncommon,"Constitution, Energy, Fortitude, Healing, Resistance, Strength",1000,16000
+Ruby,Fire,Special,"Enchantment, Energy, Pigment, Wisdom",500000,8000000
+Salt,Water,Common,"Abjuration, Divination, Energy, Polymer, Resistance",1,5
+"Sapphire, Black",Fire,Special,"Divination, Wisdom",500000,8000000
+"Sapphire, Blue",Fire,Special,"Abjuration, Charisma, Intelligence, Wisdom",100000,1600000
+"Sapphire, Lotus",Fire,Extraordinary,"Abjuration, Charisma, Constitution, Divination, Fortitude, Intelligence, Resistance, Wisdom",200000,3200000
+"Sapphire, Star",Fire,Special,"Abjuration, Resistance, Wisdom",100000,1600000
+"Sapphire, White",Fire,Special,"Constitution, Fortitude, Wisdom",100000,1600000
+Sardonyx,Fire,Special,"Charisma, Energy, Enchantment, Strength, Wisdom",5000,80000
+"Scapolite, Clear",Earth,Extraordinary,"Intelligence, Wisdom",3000,48000
+"Scapolite, Gray",Earth,Uncommon,"Charisma, Dexterity, Intelligence, Strength, Wisdom",900,14400
+"Scapolite, Pink",Air,Rare,"Charisma, Dexterity, Intelligence, Wisdom",1100,17600
+"Scapolite, Violet",Earth,Common,"Charisma, Constitution, Dexterity, Intelligence, Strength, Wisdom",400,8000
+"Scapolite, Yellow",Earth,Special,"Charisma, Intelligence, Wisdom",1600,25600
+Seraphinite,Air,Rare,"Abjuration, Healing, Resistance",1200,19200
+Serpentine,Earth,Common,"Divination, Enchantment, Intelligence, Resistance, Wisdom",400,6400
+Silver,Earth,Uncommon,"Abjuration, Charisma, Energy, Intelligence, Wisdom",30,500
+Slaad Blood,Fire,Extraordinary,"Healing",16000,256000
+Smithsonite,Water,Common,"Abjuration, Constitution, Divination, Energy, Fortitude, Intelligence, Polymer, Resistance",400,6400
+Soapstone,Earth,Common,"Abjuration, Dexterity, Resistance",200,3200
+Sodalite,Water,Uncommon,"Abjuration, Charisma, Constitution, Intelligence, Wisdom",900,14400
+Spectrolite,Air,Common,"Divination, Constitution, Strength",200,3200
+Spinel,Fire,Special,"Abjuration, Healing, Pigment, Resistance",10000,160000
+Stibnite,Fire,Common,"Abjuration, Charisma, Energy, Pigment, Resistance",200,3200
+Strawberry,Air,Common,"Healing, Pigment",200,3200
+Sugilite,Air,Uncommon,"Divination, Fortitude, Strength, Wisdom",800,12800
+Sunstone,Fire,Common,"Charisma, Divination, Fortitude, Strength, Wisdom",300,4800
+Tanzanite,Water,Rare,"Divination, Intelligence, Wisdom",1300,20800
+Tektite,Fire,Uncommon,"Energy, Polymer, Strength",800,12800
+Tiger iron,Fire,Common,"Dexterity, Fortitude, Resistance, Strength, Wisdom",600,9600
+"Tiger's Eye, Gold",Air,Common,"Divination, Energy, Intelligence, Pigment, Strength",400,6400
+"Tiger's Eye, Red",Air,Common,"Divination, Energy, Pigment, Strength, Wisdom",200,3200
+"Titanite, Brown",Earth,Common,"Charisma, Intelligence, Wisdom",600,9600
+"Titanite, Green",Earth,Rare,"Wisdom",1300,20800
+"Titanite, Yellow",Earth,Uncommon,"Intelligence, Wisdom",800,12800
+"Topaz, Blue",Fire,Uncommon,"Divination, Enchantment, Pigment, Strength",600,9600
+"Topaz, Gold",Fire,Special,"Energy, Wisdom",50000,80000
+"Tourmaline, Black",Earth,Common,"Abjuration, Divination, Enchantment, Intelligence, Pigment, Resistance",400,6400
+"Tourmaline, Blue",Earth,Special,"Constitution, Energy, Healing, Polymer, Wisdom",10000,160000
+"Tourmaline, Clear",Earth,Rare,"Abjuration, Divination, Energy, Enchantment",1200,19200
+"Tourmaline, Green",Earth,Special,"Abjuration, Constitution, Dexterity, Enchantment, Healing, Pigment, Resistance, Wisdom",10000,160000
+"Tourmaline, Pink",Earth,Uncommon,"Charisma, Divination, Energy, Fortitude, Intelligence, Polymer, Strength",1000,16000
+"Tourmaline, Watermelon",Earth,Common,"Charisma, Constitution, Dexterity, Intelligence, Strength, Wisdom",300,4800
+Troll Blood,Water,Extraordinary,"Healing",16000,256000
+Turquoise,Air,Uncommon,"Abjuration, Divination, Pigment, Wisdom",1000,16000
+Turritella Agate,Water,Uncommon,"Charisma, Enchantment, Polymer",800,12800
+Unakite,Fire,Rare,"Charisma, Energy",1400,22400
+Unicorn Horn,Earth,Extraordinary,"Charisma, Intelligence, Wisdom",16000,256000
+Vampire Dust,Earth,Extraordinary,"Charisma, Constitution, Dexterity, Healing",130000,2080000
+Variscite,Earth,Uncommon,"Divination, Energy, Wisdom",700,11200
+"Venom, Snake",Earth,Common,"Healing, Resistance",500,8000
+"Venom, Spider",Earth,Common,"Charisma, Intelligence, Dexterity, Strength, Wisdom",300,4800
+Vivianite,Earth,Special,"Divination, Intelligence, Wisdom",1500,24000
+Witch Hazel,Water,Special,"Polymer",1600,25600
+"Wood, Petrified",Earth,Uncommon,"Abjuration, Divination, Resistance, Strength, Wisdom",6,100
+Zeolite,Fire,Rare,"Energy, Strength",1400,22400
+Zincite,Fire,Special,"Charisma, Constitution, Energy",1600,25600
+Zircon,Air,Special,"Charisma, Energy, Intelligence, Wisdom",5000,80000
+"Zirconium, Lavender",Air,Extraordinary,"Energy, Healing",2400,38400
+"Zirconium, Pink",Air,Extraordinary,"Charisma, Energy",2800,44800
+"Zirconium, White",Air,Extraordinary,"Strength, Energy",2800,44800
