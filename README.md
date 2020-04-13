@@ -1,4 +1,6 @@
-# README
+# Alchemy for D&D
+
+A spreadsheet for use with https://www.dmsguild.com/product/184783/Alchemy-Defined-Refined-and-Usable
 
 Articles and forum threads used in the creation of this app:
 
