@@ -1,6 +1,8 @@
 # Alchemy for D&D
 
-A spreadsheet for use with https://www.dmsguild.com/product/184783/Alchemy-Defined-Refined-and-Usable
+A database for use with https://www.dmsguild.com/product/184783/Alchemy-Defined-Refined-and-Usable
+
+Crafting and Loot rolls to come...
 
 Articles and forum threads used in the creation of this app:
 
